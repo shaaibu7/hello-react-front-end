@@ -58,7 +58,7 @@ To get a local copy up and running, follow these steps.
 
 #### Back-End <a name="built-with"></a>
 
-[hello-react-back-end](https://github.com/shaaibu7/hello-rails-back-end)
+[hello-react-back-end](https://github.com/shaaibu7/hello-rails-back-end/tree/api)
 
 ### Setup
 
